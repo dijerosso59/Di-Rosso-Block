@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "di-rosso-block/di-rosso-text",
+	"version": "1.0",
+	"title": "Di Rosso text !",
+	"icon": "smiley",
+	"category": "text",
+	"keywords": [ "C'est Di Rosso", "Text", "Gutenberg" ],
+	"description": "Le meilleur bloc du monde !",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "di-rosso-block",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}

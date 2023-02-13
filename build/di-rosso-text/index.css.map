@@ -1,0 +1,1 @@
+{"version":3,"file":"di-rosso-text/index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://di-rosso-block/./src/di-rosso-text/editor.scss"],"sourcesContent":[".wp-block-di-rosso-block-di-rosso-text {\n\tborder: 3px solid #f00;\n}\n"],"names":[],"sourceRoot":""}
